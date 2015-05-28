@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f59e7689bbb1b416a981384725d73ff3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameover_Popup: {fileID: 409366, guid: 3bedea490edc23e4fa76769c1eb2a249, type: 2}
+  - player1_crusher: {instanceID: 0}
+  - player2_crusher: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
